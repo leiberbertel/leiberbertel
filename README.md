@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/embed/A06UFEx8jxEwU" width="200" />
+    <iframe src="https://giphy.com/embed/OVtqvymKkkcTu" width="280" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a                 href="https://giphy.com/gifs/OVtqvymKkkcTu">via GIPHY</a></p>
     <h1 align="center">Hola 👋, Soy Leiber Bertel</h1> 
     <h3>Soy un Desarrollador Back-End y estudiante de Platzi, me gusta aprender cosas nuevas cada día y crear para la web</h3>
 </div>
@@ -47,7 +47,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leiberbertel&theme=github-dark-blue&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--- Stats-Estadísticas--->
-![Leiberbertel](https://github-readme-stats.vercel.app/api?username=leiberbertel&show_icons=true&theme=tokyonight)
+![Leiberbertel](https://github-readme-stats.vercel.app/api?username=leiberbertel&show_icons=true&theme=onedark)
 
 <!--- Most-Language-used--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiberbertel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
