@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" width="350" height="300"/>
+    <img src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" width="330" height="280"/>
     <h1 align="center">Hola 👋, Soy Leiber Bertel</h1> 
     <h3>Soy un Desarrollador Back-End y estudiante de Platzi, me gusta aprender cosas nuevas cada día y crear para la web</h3>
 </div>
@@ -34,7 +34,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="mysql" width="53" height="53"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="47" height="47"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="43" height="43"/>
     </div>
 </div>
 
