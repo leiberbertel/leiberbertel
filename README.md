@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in backend development
 
-- 🌱 I’m currently learning Docker, Jenkins, CI,CD
+- 🌱 I’m currently learning Docker, Java and Spring
 
 - 💞️ I’m looking to collaborate on Code
 
