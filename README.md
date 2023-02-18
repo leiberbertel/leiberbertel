@@ -1,12 +1,11 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" width="200" height="200"/>
+    <img src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" width="350" height="300"/>
     <h1 align="center">Hola 👋, Soy Leiber Bertel</h1> 
     <h3>Soy un Desarrollador Back-End y estudiante de Platzi, me gusta aprender cosas nuevas cada día y crear para la web</h3>
 </div>
 
 ---
 ### Sobre mi :
-- 👋 Hi, I’m @leiberbertel
 
 - 👀 I’m interested in backend development
 
@@ -27,15 +26,15 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="html5" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="css3" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="js" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="java" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="spring" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="46" height="46"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="java" width="45" height="45"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="spring" width="45" height="45"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSql" alt="postgresql" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="44" height="44"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="mysql" width="53" height="53"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="47" height="47"/>
     </div>
 </div>
 
