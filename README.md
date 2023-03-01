@@ -17,26 +17,42 @@
 
 - 🌐 Website [leiberbertel.com](https://leiberbertel.github.io/)
 
-<div align="left">
-    <h3>Lenguajes y herramientas:</h3>
-    <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="55" height="55"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="fastapi" width="55" height="55"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="html5" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="css3" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="js" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="46" height="46"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="java" width="45" height="45"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="spring" width="45" height="45"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSql" alt="postgresql" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="44" height="44"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="mysql" width="53" height="53"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="43" height="43"/>
-    </div>
-</div>
+
+## Lenguajes y herramientas:
+    ```json
+    {
+        "backend": {
+            "Basic": ["Java"],
+            "Intermediate": ["Python"],
+            "Frameworks": ["Django", "FastAPI"]
+        },
+        "Frontend": {
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "Angular",
+            "Bootstrap"
+        },
+        "Databases": {
+            "MySQL",
+            "MariaDB",
+            "MongoDB"
+        },
+        "workflow": {
+            "Git",
+            "Scrum",
+            "Jira"
+        },
+        "AWS": {
+            "S3",
+            "EC2"
+        },     
+        "Tools":{
+            "Docker"
+        }
+
+    }
+    ```
 
 ---
 
