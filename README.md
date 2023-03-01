@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" width="330" height="280"/>
+    ![banner_github](/banner_github.png)
     <h1 align="center">Hola 👋, Soy Leiber Bertel</h1> 
     <h3>Soy un Desarrollador Back-End y estudiante de Platzi, me gusta aprender cosas nuevas cada día y crear para la web</h3>
 </div>
