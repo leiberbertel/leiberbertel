@@ -19,7 +19,7 @@
 
 
 ## Lenguajes y herramientas:
-    ```json
+```json
     {
         "backend": {
             "Basic": ["Java"],
@@ -52,7 +52,7 @@
         }
 
     }
-    ```
+```
 
 ---
 
