@@ -7,9 +7,9 @@
 ---
 ### Sobre mi :
 
-- 👀 I’m interested in backend development
+- 👀 I’m interested in full-stack development
 
-- 🌱 I’m currently learning Docker, Java and Spring
+- 🌱 I’m currently learning C# y PHP
 
 - 💞️ I’m looking to collaborate on Code
 
@@ -21,17 +21,17 @@
 ## Lenguajes y herramientas:
 ```json
     {
-        "backend": {
-            "Basic": ["Java"],
-            "Intermediate": ["Python"],
-            "Frameworks": ["Django", "FastAPI"]
+        "Backend": {
+            "Basic": ["C#", "PHP"],
+            "Intermediate": ["Python", "Java", "C++"],
+            "Frameworks": ["Django", "FastAPI", "Spring Boot"]
         },
         "Frontend": {
             "HTML5",
             "CSS3",
             "JavaScript",
             "Angular",
-            "Bootstrap"
+            "Bootstrap 5"
         },
         "Databases": {
             "MySQL",
@@ -48,9 +48,9 @@
             "EC2"
         },     
         "Tools":{
-            "Docker"
+            "Docker",
+            "Excel"
         }
-
     }
 ```
 
