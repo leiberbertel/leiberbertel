@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in full-stack development
 
-- 🌱 I’m currently learning C# y PHP
+- 🌱 I’m currently learning Angular and Spring Boot
 
 - 💞️ I’m looking to collaborate on Code
 
@@ -24,7 +24,7 @@
         "Backend": {
             "Basic": ["C#", "PHP"],
             "Intermediate": ["Python", "Java", "C++"],
-            "Frameworks": ["Django", "FastAPI", "Spring Boot"]
+            "Frameworks": ["Django", "FastAPI", "Spring Boot", "Node.js"]
         },
         "Frontend": {
             "HTML5",
@@ -36,7 +36,8 @@
         "Databases": {
             "MySQL",
             "MariaDB",
-            "MongoDB"
+            "MongoDB",
+            "PostgreSQL"
         },
         "workflow": {
             "Git",
@@ -49,7 +50,8 @@
         },     
         "Tools":{
             "Docker",
-            "Excel"
+            "Excel",
+            "Figma"
         }
     }
 ```
@@ -65,7 +67,7 @@
 ![Leiberbertel](https://github-readme-stats.vercel.app/api?username=leiberbertel&show_icons=true&theme=radical)
 
 <!--- Most-Language-used--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiberbertel&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!---
 leiberbertel/leiberbertel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
