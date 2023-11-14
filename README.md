@@ -63,9 +63,6 @@
 <!--- Streak-Racha--->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leiberbertel&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<!--- Stats-Estadísticas--->
-![Leiberbertel](https://github-readme-stats.vercel.app/api?username=leiberbertel&show_icons=true&theme=radical)
-
 <!--- Most-Language-used--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiberbertel&layout=compact)
 
