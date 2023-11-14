@@ -67,7 +67,7 @@
 ![Leiberbertel](https://github-readme-stats.vercel.app/api?username=leiberbertel&show_icons=true&theme=radical)
 
 <!--- Most-Language-used--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiberbertel&layout=compact)
 
 <!---
 leiberbertel/leiberbertel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
