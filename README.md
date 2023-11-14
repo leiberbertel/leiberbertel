@@ -1,4 +1,4 @@
-![banner_github](/banner_github.png)
+![banner_github](/banner_github_update.png)
 <div id="header" align="center">
     <h2 align="center">Hola 👋, Soy Leiber Bertel</h1> 
     <h4>Soy un Desarrollador Full Stack y estudiante de Platzi, me gusta aprender cosas nuevas cada día y crear para la web</h4>
