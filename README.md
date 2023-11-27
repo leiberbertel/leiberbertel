@@ -22,9 +22,9 @@
 ```json
     {
         "Backend": {
-            "Basic": ["C#", "PHP"],
-            "Intermediate": ["Python", "Java", "C++"],
-            "Frameworks": ["Django", "FastAPI", "Spring Boot", "Node.js"]
+            "Basic": ["PHP"],
+            "Intermediate": ["Python", "Java", "C++", "TypeScript"],
+            "Frameworks": ["Django", "FastAPI", "Spring Boot", "Node.js", "Express.js"]
         },
         "Frontend": {
             "HTML5",
@@ -41,8 +41,7 @@
         },
         "workflow": {
             "Git",
-            "Scrum",
-            "Jira"
+            "Scrum"
         },
         "AWS": {
             "S3",
@@ -51,7 +50,8 @@
         "Tools":{
             "Docker",
             "Excel",
-            "Figma"
+            "Figma",
+            "Linux"
         }
     }
 ```
