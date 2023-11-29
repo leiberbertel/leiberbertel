@@ -64,7 +64,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Leiberbertel&theme=radical&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--- Most-Language-used--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiberbertel&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leiberbertel&layout=compact&theme=radical)
 
 <!---
 leiberbertel/leiberbertel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
