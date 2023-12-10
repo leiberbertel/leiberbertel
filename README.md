@@ -30,6 +30,7 @@
             "HTML5",
             "CSS3",
             "JavaScript",
+            "Vue 3",
             "Angular",
             "Bootstrap 5"
         },
