@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in full-stack development
 
-- 🌱 I’m currently learning Angular and Spring Boot
+- 🌱 I’m currently learning Microservices and cloud
 
 - 💞️ I’m looking to collaborate on Code
 
