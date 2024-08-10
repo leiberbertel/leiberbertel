@@ -2,7 +2,7 @@
 
 I'm software developer with an insatiable passion for continuous learning and growth, both personally and professionally.
 
-I have experience in frontend technologies like HTML, CSS, and preprocessors like SCSS. In addition, I am fluent in JavaScript, TypeScript, Git, and GitHub. I love designing and building websites using Angular, and I have worked with libraries like Next.js and Styled-Components, among others.
+I have experience in frontend technologies like HTML, CSS, and preprocessors like SCSS. In addition, I am fluent in JavaScript, TypeScript, Git, and GitHub. I love designing and building websites using Angular, and I have worked with libraries like Next.js and SweetAlert, among others.
 
 As for backend, I have a good command of Python, Java, PHP, and I manage databases such as MongoDB, MySQL, and PostgreSQL. I also enjoy working with automation and cloud technologies, which allows me to create efficient and scalable applications.
 
