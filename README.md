@@ -84,22 +84,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Spring" src="https://img.shields.io/badge/Spring-3E3B3B?style=for-the-badge&logo=spring&logoColor=green&logoSize=auto" />&nbsp;
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-3E3B3B?style=for-the-badge&logo=springboot&logoColor=green&logoSize=auto" />&nbsp;
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Security-3E3B3B?style=for-the-badge&logo=springsecurity&logoColor=green&logoSize=auto" />&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
-<!-- 
-
-</p>
 
 <!--- ## 🏆 **Other stats**
 [![Leiber's GitHub stats](https://github-profile-trophy.vercel.app/?username=Leiberbertel&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -109,19 +94,19 @@ You can click the Preview link to take a look at your changes.
 <div>
   <!-- Platzi -->
   <a href="https://platzi.com/p/leiberbertel/" target="_blank">
-    <img height="30" alt="Platzi" title="Platzi" src="https://img.shields.io/badge/Platzi-97c93e?=for-the-badge&logo=platzi&logoColor=white" target="_blank">
+    <img height="30" alt="Platzi" title="Platzi" src="https://img.shields.io/badge/Platzi-97c93e?=for-the-badge&logo=platzi&logoColor=white">
   </a>&nbsp;
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/leiber-bertel/" target="_blank">
-    <img height="30" alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img height="30" alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;
   <!-- Instagram -->
   <a href="https://www.instagram.com/bertel_leiber/" target="_blank">
-    <img height="30" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img height="30" alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white">
   </a>&nbsp;
   <!-- Twitter -->
   <a href="https://x.com/BertelLeiber" target="_blank">
-    <img height="30" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+    <img height="30" alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>&nbsp;
 </div>
 <br />
