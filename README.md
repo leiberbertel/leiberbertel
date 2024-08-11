@@ -86,8 +86,8 @@ You can click the Preview link to take a look at your changes.
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Security-3E3B3B?style=for-the-badge&logo=springsecurity&logoColor=green&logoSize=auto" />&nbsp;
 </div>
 
-## 🏆 **Other stats**
-[![Leiber's GitHub stats](https://github-profile-trophy.vercel.app/?username=Leiberbertel&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) 
+<!-- ## 🏆 **Other stats**
+[![Leiber's GitHub stats](https://github-profile-trophy.vercel.app/?username=Leiberbertel&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) --> 
 
 ## 📫 **Contact me**
 
