@@ -1,14 +1,6 @@
 # Hi! I'm Leiber Bertel
 
-I'm software developer with an insatiable passion for continuous learning and growth, both personally and professionally.
-
-I have experience in frontend technologies like HTML, CSS, and preprocessors like SCSS. In addition, I am fluent in JavaScript, TypeScript, Git, and GitHub. I love designing and building websites using Angular, and I have worked with libraries like Next.js and SweetAlert, among others.
-
-As for backend, I have a good command of Python, Java, PHP, and I manage databases such as MongoDB, MySQL, and PostgreSQL. I also enjoy working with automation and cloud technologies, which allows me to create efficient and scalable applications.
-
-I am excited to get involved in projects that have a big impact, where I can combine different frameworks and technologies to deliver real value to end users.
-
-Besides technology, I am passionate about developing soft skills, learning English, and maintaining a healthy and active lifestyle. I am an avid reader and am always looking for new ways to get better at what I do.
+A Software Developer with experience in creating robust and scalable applications. Although my main focus is backend development, I also have knowledge in frontend technologies, which allows me to contribute effectively across the stack.
 
 If you're looking for someone who strives to do things right and is always willing to learn and grow, I'd love to chat with you. You can learn more about my work at [leiberbertel.me](https://leiberbertel.github.io/) or email me at leiberbertel777@gmail.com Let's talk and see how I can be helpful to your team! 🚀
 
@@ -39,8 +31,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript" />&nbsp;
   <!-- Angular -->
   <img alt="Static Badge" src="https://img.shields.io/badge/angular-3E3B3B?style=for-the-badge&logo=angular&logoColor=%23E4080A" />&nbsp;
-  <!-- NextJS -->
-  <img src="https://img.shields.io/badge/NextJS-0070f5?style=for-the-badge&logo=nextjs" alt="NextJS" />&nbsp;
   <!-- NodeJS -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;
   <!-- Git -->
