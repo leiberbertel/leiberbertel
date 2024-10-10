@@ -25,12 +25,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;
   <!-- SCSS -->
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />&nbsp;
-  <!-- JS -->
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
   <!-- Typescript -->
-  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-2D71BD?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
   <!-- Angular -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/angular-3E3B3B?style=for-the-badge&logo=angular&logoColor=%23E4080A" />&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/angular-EFEFEF?style=for-the-badge&logo=angular&logoColor=%23E4080A" />&nbsp;
   <!-- NodeJS -->
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;
   <!-- Git -->
