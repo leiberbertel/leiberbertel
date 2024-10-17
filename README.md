@@ -51,19 +51,19 @@ You can click the Preview link to take a look at your changes.
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />&nbsp;
   <!-- Docker -->
-  <img src="https://img.shields.io/badge/docker-3E3B3B?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker" />
+  <img src="https://img.shields.io/badge/docker-A2DEFA?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker" />
   <!-- Mysql -->
-  <img src="https://img.shields.io/badge/MySQL-3E3B3B?style=for-the-badge&logo=MySQL&logoColor=blue&logoSize=auto" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-F2F2F2?style=for-the-badge&logo=MySQL&logoColor=blue alt="MySQL" />&nbsp;
   <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/PostgreSQL-3E3B3B?style=for-the-badge&logo=PostgreSQL&logoColor=blue&logoSize=auto" alt="PostgreSQL">&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-FEFEFE?style=for-the-badge&logo=PostgreSQL&logoColor=blue alt="PostgreSQL" >&nbsp;
   <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-3E3B3B?style=for-the-badge&logo=MongoDB&logoColor=green&logoSize=auto" alt="MongoDB">&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=MongoDB&logoColor=green alt="MongoDB" >&nbsp;
   <!-- Python -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-3E3B3B?style=for-the-badge&logo=Python&logoSize=auto" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-2A2E49?style=for-the-badge&logo=Python&logoColor=yellow alt="Python" />&nbsp;
   <!-- Java -->
   <img alt="Java" src="https://img.shields.io/badge/Java%208%2B-3E3B3B?style=for-the-badge" />&nbsp;
-  <!-- Php -->
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-3E3B3B?style=for-the-badge&logo=php&logoSize=auto" />&nbsp;
+  <!-- PHP -->
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-8993C1?style=for-the-badge&logo=php&logoColor=21232F&logoSize=auto" />&nbsp;
   <!-- Express -->
   <img alt="Express" src="https://img.shields.io/badge/Express.js-3E3B3B?style=for-the-badge&logo=Express&logoSize=auto" />&nbsp;
    <!-- Amazon S3 -->
@@ -71,12 +71,15 @@ You can click the Preview link to take a look at your changes.
    <!-- Amazon EC2 -->
   <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-3E3B3B?style=for-the-badge&logo=Amazon%20EC2&logoSize=auto" />&nbsp;
    <!-- Django -->
-  <img alt="Django" src="https://img.shields.io/badge/Django-3E3B3B?style=for-the-badge&logo=Django&logoColor=green&logoSize=auto" />&nbsp;
+  <img src="https://img.shields.io/badge/Django-103E2E?style=for-the-badge&logo=Django&logoColor=FFFFFF alt="Django"/>&nbsp;
    <!-- FastAPI -->
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-3E3B3B?style=for-the-badge&logo=FastAPI&logoColor=green&logoSize=auto" />&nbsp;
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-3E3B3B?style=for-the-badge&logo=spring&logoColor=green&logoSize=auto" />&nbsp;
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-3E3B3B?style=for-the-badge&logo=springboot&logoColor=green&logoSize=auto" />&nbsp;
-  <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Security-3E3B3B?style=for-the-badge&logo=springsecurity&logoColor=green&logoSize=auto" />&nbsp;
+  <img  src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=FastAPI&logoColor=05988A alt="FastAPI" />&nbsp;
+  <!-- Spring -->
+  <img src="https://img.shields.io/badge/Spring-6FB342?style=for-the-badge&logo=spring&logoColor=FFFFFF&logoSize=auto" alt="Spring" />&nbsp;
+  <!-- Sprign Boot -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6FB342?style=for-the-badge&logo=springboot&logoColor=FFFFFF&logoSize=auto" alt="Spring Boot" />&nbsp;
+  <!-- Spring Security -->
+  <img src="https://img.shields.io/badge/Spring%20Security-6FB342?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF&logoSize=auto" alt="Spring Security" />&nbsp;
 </div>
 
 <!-- ## 🏆 **Other stats**
