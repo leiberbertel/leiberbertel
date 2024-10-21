@@ -67,9 +67,9 @@ You can click the Preview link to take a look at your changes.
   <!-- Express -->
   <img alt="Express" src="https://img.shields.io/badge/Express.js-3E3B3B?style=for-the-badge&logo=Express&logoSize=auto" />&nbsp;
    <!-- Amazon S3 -->
-  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-3E3B3B?style=for-the-badge&logo=Amazon%20S3&logoSize=auto" />&nbsp;
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-468F24?style=for-the-badge&logo=Amazon%20S3&logoSize=auto&logoColor=FFFFFF" />&nbsp;
    <!-- Amazon EC2 -->
-  <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-3E3B3B?style=for-the-badge&logo=Amazon%20EC2&logoSize=auto" />&nbsp;
+  <img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoSize=auto&logoColor=232F3E" />&nbsp;
    <!-- Django -->
   <img src="https://img.shields.io/badge/Django-103E2E?style=for-the-badge&logo=Django&logoColor=FFFFFF alt="Django"/>&nbsp;
    <!-- FastAPI -->
