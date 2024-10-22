@@ -80,6 +80,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Spring%20Boot-6FB342?style=for-the-badge&logo=springboot&logoColor=FFFFFF&logoSize=auto" alt="Spring Boot" />&nbsp;
   <!-- Spring Security -->
   <img src="https://img.shields.io/badge/Spring%20Security-6FB342?style=for-the-badge&logo=springsecurity&logoColor=FFFFFF&logoSize=auto" alt="Spring Security" />&nbsp;
+  <!-- EclipseLink -->
+  <img src="https://img.shields.io/badge/EclipseLink-2C2255?style=for-the-badge&logo=eclipse&logoColor=FFFFFF&logoSize=auto" alt="EclipseLink" />&nbsp;
+  <!-- JPA -->
+  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=FFFFFF&logoSize=auto" alt="JPA" />&nbsp;
+  <!-- JDBC -->
+  <img src="https://img.shields.io/badge/JDBC-FFA500?style=for-the-badge&logo=datastax&logoColor=FFFFFF&logoSize=auto" alt="JDBC" />&nbsp;
 </div>
 
 <!-- ## 🏆 **Other stats**
