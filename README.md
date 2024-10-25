@@ -1,6 +1,6 @@
-# Hi! I'm Leiber Bertel
+#Hi! I'm Leiber Bertel
 
-A Software Developer with experience in creating robust and scalable applications. Although my main focus is backend development, I also have knowledge in frontend technologies, which allows me to contribute effectively across the stack.
+A Full Stack Developer with experience in creating robust and scalable applications. While my primary focus is backend development, I also have a strong foundation in frontend technologies, making me a well-rounded developer.
 
 If you're looking for someone who strives to do things right and is always willing to learn and grow, I'd love to chat with you. You can learn more about my work at [leiberbertel.me](https://leiberbertel.github.io/) or email me at leiberbertel777@gmail.com Let's talk and see how I can be helpful to your team! 🚀
 
