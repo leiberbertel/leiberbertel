@@ -1,4 +1,4 @@
-#Hi! I'm Leiber Bertel
+# Hi! I'm Leiber Bertel
 
 A Full Stack Developer with experience in creating robust and scalable applications. While my primary focus is backend development, I also have a strong foundation in frontend technologies, making me a well-rounded developer.
 
