@@ -4,7 +4,7 @@ A Full Stack Developer with experience in creating robust and scalable applicati
 
 If you're looking for someone who strives to do things right and is always willing to learn and grow, I'd love to chat with you. You can learn more about my work at [leiberbertel.me](https://leiberbertel.github.io/) or email me at leiberbertel777@gmail.com Let's talk and see how I can be helpful to your team! 🚀
 
----
+#
 <!---
 leiberbertel/leiberbertel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
