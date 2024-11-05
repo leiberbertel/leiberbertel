@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 [![Leiber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leiberbertel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Leiber's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leiberbertel&layout=compact&title_color=16ffe2&icon_color=16ffe2&text_color=ffffff&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Leiber's Stats](https://streak-stats.demolab.com?user=Leiberbertel&theme=dark&background=111111&border=111111&stroke=ffffff&ring=16ffe2&fire=16ffe2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=16ffe2&sideLabels=16ffe2&dates=ffffff)](https://git.io/streak-stats)
+
+[![Leiber's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leiberbertel&layout=compact&title_color=16ffe2&icon_color=16ffe2&text_color=ffffff&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 **Tools and Technologies**
 
