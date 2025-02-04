@@ -1,5 +1,10 @@
 <h2 align="center">Hi! I'm Leiber Bertel ⚡</h2>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16FFE2&center=true&width=435&lines=Full-Stack+Web+Developer;2%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+</p>
+
 Software developer with two years of experience in creating robust and scalable applications. Although my primary focus is backend development, I also have a solid foundation in frontend technologies, making me a well-rounded developer.
 
 If you're looking for someone who strives to do things right and is always willing to learn and grow, I'd love to chat with you. You can learn more about my work at [leiberbertel.me](https://leiberbertel.github.io/) or email me at leiberbertel777@gmail.com Let's talk and see how I can be helpful to your team! 🚀
@@ -13,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 <!-- General statistics of number of commits, pr's among other things. -->
 <!---
 [![Leiber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leiberbertel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=111111&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 [![Leiber's Stats](https://streak-stats.demolab.com?user=Leiberbertel&theme=dark&background=111111&border=111111&stroke=ffffff&ring=16ffe2&fire=16ffe2&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=16ffe2&sideLabels=16ffe2&dates=ffffff)](https://git.io/streak-stats)
