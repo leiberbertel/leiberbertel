@@ -103,6 +103,10 @@ If you're looking for someone who strives to do things right and is always willi
   <img src="https://img.shields.io/badge/markdown-%23000.svg?&style=for-the-badge&logo=markdown" alt="Markdown" />&nbsp;
   <!-- NPM -->
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />&nbsp;
+  <!-- Maven -->
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white alt="Maven" />&nbsp;
+  <!-- Gradle -->
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white alt="Gradle" />&nbsp; 
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />&nbsp;
 </div>
