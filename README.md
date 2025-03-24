@@ -11,22 +11,15 @@ If you're looking for someone who strives to do things right and is always willi
 
 #
 <!-- General statistics of number of commits, pr's among other things. -->
-<table>
-  <tr>
-    <td valign="top" colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=Leiberbertel&hide_border=true&border_radius=10&background=111111&stroke=16ffe2&ring=16ffe2&fire=16ffe2&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=16ffe2&sideLabels=16ffe2&dates=CCCCCC" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leiberbertel&layout=compact&count_private=true&title_color=16ffe2&text_color=cccccc&bg_color=111111&hide_border=true&border_radius=10" />
-    </td>
-    <td valign="top">
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Leiberbertel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=111111&border_radius=10&hide_border=true"
+
+<!--
+<img src="https://streak-stats.demolab.com?user=Leiberbertel&hide_border=true&border_radius=10&background=111111&stroke=16ffe2&ring=16ffe2&fire=16ffe2&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=16ffe2&sideLabels= 16ffe2&dates=CCCCCC" alt="GitHub Streak" />
+-->
+
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Leiberbertel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=111111&border_radius=10&hide_border=true"
  />
-    </td>
-  </tr>
-</table>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leiberbertel&layout=compact&count_private=true&title_color=16ffe2&text_color=cccccc&bg_color=111111&hide_border=true&border_radius=10" />
 
 <h2>💻 Tools and Technologies</h2>
 
