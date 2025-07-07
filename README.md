@@ -49,11 +49,11 @@ If you're looking for someone who strives to do things right and is always willi
   <!-- Express -->
   <img alt="Express" src="https://img.shields.io/badge/Express.js-3E3B3B?style=for-the-badge&logo=Express&logoSize=auto" />&nbsp;
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-2A2E49?style=for-the-badge&logo=Python&logoColor=yellow alt="Python" />&nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/Python-2A2E49?style=for-the-badge&logo=Python&logoColor=yellow" />&nbsp;
   <!-- Django -->
-  <img src="https://img.shields.io/badge/Django-103E2E?style=for-the-badge&logo=Django&logoColor=FFFFFF alt="Django"/>&nbsp;
+  <img alt="Django" src="https://img.shields.io/badge/Django-103E2E?style=for-the-badge&logo=Django&logoColor=FFFFFF" />&nbsp;
   <!-- FastAPI -->
-  <img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=FastAPI&logoColor=05988A alt="FastAPI" />&nbsp;
+  <img  alt="FastAPI" src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=FastAPI&logoColor=05988A" />&nbsp;
   <!-- Java -->
   <img alt="Java" src="https://img.shields.io/badge/Java%208%2B-3E3B3B?style=for-the-badge" />&nbsp;
   <!-- Spring -->
@@ -103,9 +103,9 @@ If you're looking for someone who strives to do things right and is always willi
   <!-- NPM -->
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />&nbsp;
   <!-- Maven -->
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white alt="Maven" />&nbsp;
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />&nbsp;
   <!-- Gradle -->
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white alt="Gradle" />&nbsp; 
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp; 
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />&nbsp;
 </div>
