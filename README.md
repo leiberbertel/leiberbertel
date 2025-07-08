@@ -22,6 +22,14 @@ If you're looking for someone who strives to do things right and is always willi
 
 <h2>💻 Tools and Technologies</h2>
 
+<h3>💥 Apps </h3>
+<div>
+  <!-- Flutter -->
+  <img 
+    src="https://img.shields.io/badge/Flutter-Flutter?style=for-the-badge&logo=Flutter&logoColor=%233383ff&labelColor=gray&color=blue&cacheSeconds=blue" 
+      alt="Flutter" />&nbsp;
+</div>
+
 <h3>🎨 Frontend</h3>
 <div>
   <!-- HTML -->
