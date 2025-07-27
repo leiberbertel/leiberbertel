@@ -28,6 +28,12 @@ If you're looking for someone who strives to do things right and is always willi
   <img 
     src="https://img.shields.io/badge/Flutter-Flutter?style=for-the-badge&logo=Flutter&logoColor=%233383ff&labelColor=gray&color=blue&cacheSeconds=blue" 
       alt="Flutter" />&nbsp;
+<!-- Kotlin -->
+<img src="https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin"/>
+<!-- Jetpack compose -->
+<img src="https://img.shields.io/badge/Jetpack%20Compose-%23000000?style=for-the-badge&logo=android&logoColor=white" 
+      alt="Jetpack Compose Badge"/>
+
 </div>
 
 <h3>🎨 Frontend</h3>
