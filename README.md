@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16FFE2&center=true&width=435&lines=Full-Stack+Web+Developer;2%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16FFE2&center=true&width=435&lines=Mobile+Developer;Full-Stack+Developer;2%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 Software developer with two years of experience in creating robust and scalable applications. Although my primary focus is backend development, I also have a solid foundation in frontend technologies, making me a well-rounded developer.
