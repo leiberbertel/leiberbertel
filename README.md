@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16FFE2&center=true&width=435&lines=Mobile+Developer;Full-Stack+Developer;2%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16FFE2&center=true&width=435&lines=Mobile+Developer;Full-Stack+Developer;3%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-Software developer with over two years of experience building robust and scalable applications. While my main focus is backend development, I also have a strong foundation in frontend technologies and mobile development for Android and iOS, making me a versatile and well-rounded professional.
+Software developer with over three years of experience building robust and scalable applications. While my main focus is backend development, I also have a strong foundation in frontend technologies and mobile development for Android and iOS, making me a versatile and well-rounded professional.
 
 If you're looking for someone committed to excellence, continuous improvement, and always eager to learn and contribute, I’d be happy to connect. Let’s talk! :)
  🚀
