@@ -20,16 +20,10 @@ If you're looking for someone committed to excellence, continuous improvement, a
   <table>
     <tr>
       <td align="center">
-        <img
-          height="180em"
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leiberbertel&count_private=true&show_icons=true&title_color=16ffe2&icon_color=16ffe2&text_color=cccccc&bg_color=111111&border_radius=10&hide_border=true"
-        />
+        <img height="180em" src="./profile/stats.svg" />
       </td>
       <td align="center">
-        <img
-          height="180em"
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leiberbertel&layout=compact&count_private=true&title_color=16ffe2&text_color=cccccc&bg_color=111111&hide_border=true&border_radius=10"
-        />
+        <img height="180em" src="./profile/top-langs.svg" />
       </td>
     </tr>
   </table>
